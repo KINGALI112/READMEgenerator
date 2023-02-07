@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "marked": "^4.2.12"
+  },
+  "keywords": []
+}
