@@ -1,13 +1,12 @@
-
-  *) Project Title
-  readme
-  [![License: MPL 2.9](image link will go here)]
+) Project Title
+  ReadMe-generator
+  [![license: MIT](image link will go here)]
   Node.js Challenge: README GENERATOR
 
 
 
   *) Description
-  reademe
+  This app allows you to create a README file in a efficient way.
 
   - [For-Installation](-----Installation Guide)
   - [For-Usage](-----Usage Guide-----)
@@ -21,7 +20,7 @@
 
 
   # Usage
-  ..
+  Run it in terminal to create README file.
 
   using NPM Install
   npm install
@@ -29,7 +28,7 @@
 
 
   #License
-  GNUGPLv3
+  MIT
   MIT LIcense
 
   MIT License
@@ -58,18 +57,18 @@ SOFTWARE.
 
 
 # Contributions
-..
+N/A. 
 Email me
 
 #Tests
 
-..
+Node index.js
 Use Unit testing with automation tool
 
 
 #COntact Information
 
--- Github Username: syedali05125569@gmail.com
+-- Github Username: KINGALI112
 --Contact Email: syedali05125569@gmail.com
 
 
