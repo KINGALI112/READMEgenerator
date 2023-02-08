@@ -58,7 +58,7 @@ SOFTWARE.
 
 # Contributions
 N/A. 
-Email me
+
 
 #Tests
 
